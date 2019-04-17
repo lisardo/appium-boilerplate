@@ -32,6 +32,7 @@
   "homepage": "https://github.com/webdriverio/appium-boilerplate#readme",
   "dependencies": {},
   "devDependencies": {
+    "@applitools/eyes.webdriverio": "applitools/eyes.webdriverio.javascript5",
     "@babel/cli": "^7.4.3",
     "@babel/core": "^7.4.3",
     "@babel/preset-env": "^7.4.3",
